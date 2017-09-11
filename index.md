@@ -35,3 +35,5 @@ You can check out some really early progress here:
 I am working on a project with [omarshehata](https://github.com/omarshehata) on a geometry viewer.
 
 It allows you to view slices of objects in 2D, 3D, and 4D space.
+
+![Klein Cut Gif](http://petersbob.github.io/images/april_klein_2.gif)
