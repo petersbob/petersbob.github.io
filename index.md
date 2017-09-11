@@ -2,36 +2,37 @@
 
 This is my personal website where I post some links and projects I have worked on.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Joseph Peterson and I am an undergrad computer science student at St. Olaf College in Minnesota.
 
-### Markdown
+I do a lot of python, javascript and computer graphics work.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Here are some links
 
-```markdown
-Syntax highlighted code block
+[My Twitter](https://twitter.com/petersbob3)
 
-# Header 1
-## Header 2
-### Header 3
+[My Github](https://github.com/petersbob)
 
-- Bulleted
-- List
+[My Shadertoy Profile](https://www.shadertoy.com/user/jope246)
 
-1. Numbered
-2. List
+### Some Projects I Have Worked On
 
-**Bold** and _Italic_ and `Code` text
+[MME (Musical Melee)] (https://github.com/petersbob/MME)
 
-[Link](url) and ![Image](src)
-```
+Some at my school created this video:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[![Musical Melee](https://img.youtube.com/vi/D1wLshtOWsg/0.jpg)] (https://youtu.be/D1wLshtOWsg)
 
-### Jekyll Themes
+Then he decided to try and do it directly in melee. So we started [this](https://github.com/petersbob/MME) project.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/petersbob/petersbob.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I'm working on the programming to get data out of Melee and he is using the data to make music.
 
-### Support or Contact
+You can check out some really early progress here:
+[![Musical Melee Alpha](https://img.youtube.com/vi/G7wmrC5d1Ts/0.jpg)] (https://www.youtube.com/watch?v=G7wmrC5d1Ts)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 4D Geometry viewer
+
+I am working on a project with [omarshehata] (https://github.com/omarshehata) on a geometry viewer.
+
+It allows you to view slices of objects in 2D, 3D, and 4D space.
+
+[4D Geometry viewer](https://github.com/StoDevX/humke-4d-geometry)
