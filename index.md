@@ -16,7 +16,7 @@ I do a lot of python, javascript and computer graphics work.
 
 ### Some Projects I Have Worked On
 
-[MME (Musical Melee)](https://github.com/petersbob/MME)
+## [MME (Musical Melee)](https://github.com/petersbob/MME)
 
 Some at my school created this video:
 
@@ -30,9 +30,7 @@ You can check out some really early progress here:
 
 [![Musical Melee Alpha](https://img.youtube.com/vi/G7wmrC5d1Ts/0.jpg)](https://www.youtube.com/watch?v=G7wmrC5d1Ts)
 
-### 4D Geometry viewer
-
-[4D Geometry viewer](https://github.com/StoDevX/humke-4d-geometry)
+## [4D Geometry viewer](https://github.com/StoDevX/humke-4d-geometry)
 
 I am working on a project with [omarshehata](https://github.com/omarshehata) on a geometry viewer.
 
