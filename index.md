@@ -32,8 +32,8 @@ You can check out some really early progress here:
 
 ### 4D Geometry viewer
 
+[4D Geometry viewer](https://github.com/StoDevX/humke-4d-geometry)
+
 I am working on a project with [omarshehata](https://github.com/omarshehata) on a geometry viewer.
 
 It allows you to view slices of objects in 2D, 3D, and 4D space.
-
-[4D Geometry viewer](https://github.com/StoDevX/humke-4d-geometry)
