@@ -6,17 +6,21 @@ My name is Joseph Peterson and I am an undergrad computer science student at St.
 
 I do a lot of python, javascript, and computer graphics work.
 
-### Here are some links
+### You can find my resume here:
 
-[My Twitter](https://twitter.com/petersbob3)
+[right here](http://petersbob.github.io/resume(9-21-17).pdf)
+
+### And here are some links
 
 [My Github](https://github.com/petersbob)
 
 [My Shadertoy Profile](https://www.shadertoy.com/user/jope246)
 
+[My Twitter](https://twitter.com/petersbob3) (I'm not very active)
+
 [My LinkedIn Profile](https://www.linkedin.com/in/joecpeterson)
 
-### Some Projects I Have Worked On
+### Some Projects I'm Working On
 
 ## [MME (Musical Melee)](https://github.com/petersbob/MME)
 
