@@ -2,9 +2,9 @@
 
 This is my personal website where I post some links and projects I have worked on.
 
-My name is Joseph Peterson and I am an undergrad computer science student at St. Olaf College in Minnesota.
+My name is Joseph Peterson and I am an undergrad computer science student at St. Olaf College in Northfield, Minnesota.
 
-I do a lot of python, javascript and computer graphics work.
+I do a lot of python, javascript, and computer graphics work.
 
 ### Here are some links
 
@@ -13,6 +13,8 @@ I do a lot of python, javascript and computer graphics work.
 [My Github](https://github.com/petersbob)
 
 [My Shadertoy Profile](https://www.shadertoy.com/user/jope246)
+
+[My LinkedIn Profile](https://www.linkedin.com/in/joecpeterson)
 
 ### Some Projects I Have Worked On
 
@@ -32,8 +34,6 @@ You can check out some really early progress here:
 
 ## [4D Geometry viewer](https://github.com/StoDevX/humke-4d-geometry)
 
-I am working on a project with [omarshehata](https://github.com/omarshehata) on a geometry viewer.
-
-It allows you to view slices of objects in 2D, 3D, and 4D space.
+I am working on a project with [omarshehata](https://github.com/omarshehata) on a geometry viewer for St. Olaf Professor Paul Humke for a geometry class he teaches.
 
 ![Klein Cut Gif](http://petersbob.github.io/images/april_klein_2.gif)
