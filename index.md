@@ -1,43 +1,32 @@
-## Welcome
+## Hello
 
-This is my personal website where I post some links and projects I have worked on.
+I am a computer science student at [St. Olaf College](https://wp.stolaf.edu/) from North Dakota.
 
-My name is Joseph Peterson and I am an undergrad computer science student at St. Olaf College in Northfield, Minnesota.
+I used to be really into art, comics, and puppets. By the end of high school I moved toward technology. Now I spend a lot of time doing computer graphics, a best of both worlds. Currently working with WebGL, GLSL, and reading [PBR](http://www.pbrt.org/). Also spend lots of time with Javascript and Python.
 
-I do a lot of python, javascript, and computer graphics work.
+While not doing the above, I love reading and listening to a lot of podcasts.
 
 ### You can find my resume here:
 
 [right here](http://petersbob.github.io/resume(9-21-17).pdf)
 
-### And here are some links
+### And some links
 
 [My Github](https://github.com/petersbob)
 
 [My Shadertoy Profile](https://www.shadertoy.com/user/jope246)
 
-[My Twitter](https://twitter.com/petersbob3) (I'm not very active)
+[My Twitter](https://twitter.com/petersbob3)
 
 [My LinkedIn Profile](https://www.linkedin.com/in/joecpeterson)
 
-### Some Projects I'm Working On
+### Projects
+## [Musical Melee](https://github.com/petersbob/MusicalMelee)
 
-## [MME (Musical Melee)](https://github.com/petersbob/MME)
-
-Some at my school created this video:
-
-[![Musical Melee](https://img.youtube.com/vi/D1wLshtOWsg/0.jpg)](https://youtu.be/D1wLshtOWsg)
-
-Then he decided to try and do it directly in melee. So we started [this](https://github.com/petersbob/MME) project.
-
-I'm working on the programming to get data out of Melee and he is using the data to make music.
-
-You can check out some really early progress here:
-
-[![Musical Melee Alpha](https://img.youtube.com/vi/G7wmrC5d1Ts/0.jpg)](https://www.youtube.com/watch?v=G7wmrC5d1Ts)
+I'm working on this project with another St. Olaf student who created this [video](https://www.youtube.com/watch?v=D1wLshtOWsg) that got a lot of attention. We teamed up and are building the drumkit into melee itself.
 
 ## [4D Geometry viewer](https://github.com/StoDevX/humke-4d-geometry)
 
-I am working on a project with [omarshehata](https://github.com/omarshehata) on a geometry viewer for St. Olaf Professor Paul Humke for a geometry class he teaches.
+A web app to visualize the 2D, 3D, and 4D dimension built for St. Olaf professor [Paul Humke](https://www.stolaf.edu/people/humke/)'s course MATH 180 "A Brief Voyage to the 4th Dimension."
 
 ![Klein Cut Gif](http://petersbob.github.io/images/april_klein_2.gif)
