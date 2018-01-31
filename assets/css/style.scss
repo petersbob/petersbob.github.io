@@ -11,12 +11,14 @@
     background-color: #8D230F;
     background-image: none;
 }
-.page-header img {
-    border-radius: 50%;
+.project-name {
+    font-size: 1.7rem;
 }
 
-.main-content {
-
+.page-header img {
+    border-radius: 50%;
+    vertical-align: middle;
+    margin-right: 0.75em;
 }
 
 .main-content h2 {
