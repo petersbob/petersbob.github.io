@@ -3,11 +3,16 @@
 
 @import "{{ site.theme }}";
 
+
+
 .page-header {
     color: #fff;
     text-align: center;
     background-color: #8D230F;
     background-image: none;
+}
+.page-header img {
+    border-radius: 50%;
 }
 
 .main-content {
