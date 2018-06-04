@@ -1,10 +1,10 @@
 ## Hello
 
-I am a computer science student at [St. Olaf College](https://wp.stolaf.edu/) from North Dakota.
+I am a software engineer working for a fintech startup in Minneapolis. I went to school at [St. Olaf College](https://wp.stolaf.edu/) and originally from North Dakota.
 
-I used to be really into art, comics, and puppets. By the end of high school I moved toward technology. Now I spend a lot of time doing computer graphics, a best of both worlds. Currently working with WebGL, GLSL, and reading [PBR](http://www.pbrt.org/). Also spend lots of time with Javascript and Python.
+I used to be really into art, comics, and puppets. By the end of high school I moved toward technology. Now I spend a lot of time doing computer graphics, a best of both worlds. Currently working with WebGL, GLSL, and reading [PBR](http://www.pbrt.org/). Also spend time programming in Javascript and Go.
 
-While not doing the above, I love reading and listening to a lot of podcasts.
+While not doing the above, I enjoy reading and listening to a lot of podcasts.
 
 ### You can find my resume here:
 
