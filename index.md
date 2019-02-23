@@ -8,7 +8,7 @@ While not doing the above, I enjoy listening to podcasts, watching movies, and b
 
 ### You can find my resume here:
 
-[right here](http://petersbob.github.io/resume(01-04-18).pdf)
+[right here](http://petersbob.github.io/Joseph_Peterson_Resume.pdf)
 
 ### And some links
 
