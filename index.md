@@ -25,6 +25,10 @@ While not doing the above, I enjoy listening to podcasts, watching movies, and b
 
 A WebGL based program to play with a few terrain generation algorithms. It is still a work in progress, but most of the core functionality is already there.
 
+![Perlin Noise](http://petersbob.github.io/images/perlin-noise.png)
+![Value Noise](http://petersbob.github.io/images/value-noise.png)
+![Diamond Square](http://petersbob.github.io/images/diamond-square.png)
+
 ## [Musical Melee](https://github.com/petersbob/MusicalMelee)
 
 I worked on this project with another St. Olaf student who created this [video](https://www.youtube.com/watch?v=D1wLshtOWsg) that got a lot of attention. We teamed up and are building the drumkit into melee itself.
