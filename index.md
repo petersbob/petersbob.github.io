@@ -23,11 +23,13 @@ While not doing the above, I enjoy listening to podcasts, watching movies, and b
 ### Projects
 ## [Noisy Terrain](https://github.com/petersbob/noisy-terrain)
 
-A WebGL based program to play with a few terrain generation algorithms. It is still a work in progress, but most of the core functionality is already there.
+A WebGL terrain generator using three terrain generation algorithms: value noise, Perlin noise, and the diamond-square algorithm.
 
-![Perlin Noise](http://petersbob.github.io/images/perlin-noise.png)
-![Value Noise](http://petersbob.github.io/images/value-noise.png)
-![Diamond Square](http://petersbob.github.io/images/diamond-square.png)
+I originally began this project while on a mission to learn WebGL. Everything is in plain WebGL and Javascript.
+
+![Value Noise](http://petersbob.github.io/images/value-noise2.png)
+![Perlin Noise](http://petersbob.github.io/images/perlin-noise2.png)
+![Diamond Square](http://petersbob.github.io/images/diamond-square2.png)
 
 ## [Musical Melee](https://github.com/petersbob/MusicalMelee)
 
