@@ -2,7 +2,7 @@
 
 I am a software engineer working for a fintech startup in Minneapolis. I went to school at [St. Olaf College](https://wp.stolaf.edu/) and I am originally from North Dakota.
 
-When I was little, I was really into art and cartoons/comics. By the end of high school, my interests had changed to technology. Now I spend a lot of time doing computer graphics, a best of both worlds. I am currently working with WebGL and GLSL. Also spend time programming in Javascript and Go.
+I spend a lot of time right now writing and learning about Go and Javascript. I also like dabbling in writing shaders, WebGL and learning about ray tracers when I find the time.
 
 While not doing the above, I enjoy listening to podcasts, watching movies, and being active (biking, running, etc).
 
