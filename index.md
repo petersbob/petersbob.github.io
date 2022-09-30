@@ -1,6 +1,6 @@
 ## Hello
 
-I am a software engineer working for a fintech startup in Minneapolis. I went to school at [St. Olaf College](https://wp.stolaf.edu/) and I am originally from North Dakota.
+I am a software engineer working in Minneapolis. I went to school at [St. Olaf College](https://wp.stolaf.edu/) and I am originally from North Dakota.
 
 I spend a lot of time right now writing and learning about Go and Javascript. I also like dabbling in writing shaders, WebGL, and learning about ray tracers when I find the time.
 
