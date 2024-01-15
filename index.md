@@ -1,10 +1,10 @@
 ## Hello
 
-I am a software engineer working in Minneapolis. I went to school at [St. Olaf College](https://wp.stolaf.edu/) and I am originally from North Dakota.
+I am a software engineer working from the Minneapolis/Saint Paul area. I went to school at [St. Olaf College](https://wp.stolaf.edu/) and I am originally from North Dakota.
 
-I spend a lot of time right now writing and learning about Go and Javascript. I also like dabbling in writing shaders, WebGL, and learning about ray tracers when I find the time.
+I have experience working in many different technologies including (but not limited to) Go, Javascript, Python, Docker, K8s, PostgreSQL, MySQL, and AWS. When I find the time I like dabbling in writing shaders, WebGL, and learning about ray tracers.
 
-While not doing the above, I enjoy listening to podcasts, watching movies, and being active (biking, running, etc).
+While not doing the above, I enjoy biking and listening to podcasts.
 
 ### You can find my resume here:
 
