@@ -1,26 +1,22 @@
 ## Hello
 
-I am a software engineer working from the Minneapolis/Saint Paul area. I went to school at [St. Olaf College](https://wp.stolaf.edu/) and I am originally from North Dakota.
+As a Software Engineer, I focus on building robust, scalable solutions that delight customers and solve complex business problems. I've worked in fintech and cybersecurity on a wide variety of tech stacks and projects. My technical expertise spans modern cloud-native architecture, leveraging Go, Python, and Javascript for development, and utilizing Kubernetes, Istio, Docker, AWS, PostgreSQL, and MySQL for deployment and persistence.
 
-I have experience working in many different technologies including (but not limited to) Go, Javascript, Python, Docker, K8s, PostgreSQL, MySQL, and AWS. When I find the time I like dabbling in writing shaders, WebGL, and learning about ray tracers.
+I thrive on technical challenges and am committed to mentorship and technical leadership, enjoying the process of guiding junior developers.
 
-While not doing the above, I enjoy biking and listening to podcasts.
+To see more details about my work experience, visit my LinkedIn profile here: [https://www.linkedin.com/in/joecpeterson](https://www.linkedin.com/in/joecpeterson)
 
-### You can find my resume here:
+Outside of work, I enjoyed being involved in the local Twin Cities technology community in both hosting and attending various events. I also like road and gravel biking, comedy podcasts, and board games.
 
-[right here](http://petersbob.github.io/Joseph_Peterson_Resume.pdf)
+### Some links
 
-### And some links
+[My LinkedIn Profile](https://www.linkedin.com/in/joecpeterson)
 
 [My Github](https://github.com/petersbob)
 
 [My Shadertoy Profile](https://www.shadertoy.com/user/jope246)
 
-[My Twitter](https://twitter.com/petersbob3)
-
-[My LinkedIn Profile](https://www.linkedin.com/in/joecpeterson)
-
-### Projects
+### A few personal projects I've worked on
 ## [Noisy Terrain](https://github.com/petersbob/noisy-terrain)
 
 A WebGL terrain generator using three terrain generation algorithms: value noise, Perlin noise, and the diamond-square algorithm.
